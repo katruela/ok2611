@@ -1,5 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN HD" tvg-logo="" group-title="Deportes",ESPN HD
-https://10.ftlly.com/espn/mono.m3u8?token=d5ecf8676605e29c4ff07c696063812b1d3c158b-52-1792982637-1792964637
-#EXTINF:-2 group-title="Deportes", TNT Sports Argentina
+#EXTINF:-1 group-title="Deportes", TNT Sports Argentina
 https://streamtp99a.sbs/global1.php?stream=tntar
