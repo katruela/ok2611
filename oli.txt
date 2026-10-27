@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 group-title="Deportes", TNT Sports Argentina
-https://streamtp99a.sbs/global1.php?stream=tntar//edge.cowedd4855ws.sbs/premium388/index.m3u8?t=1792794518.2076c8fd11af05d6a68b6eea7dca4de5&_=1792794425430
+#EXTINF:-1 group-title="Deportes",TNT Sports Argentina
+https://93.domhsd.com/tntar/tracks-v1a1/mono.m3u8?ip=181.9.116.183&token=fce0b1ee6dd216de22bc1f2e57ed27440b6b842a-b7-1793179312-1793125312
