@@ -1,3 +1,33 @@
 #EXTM3U
-#EXTINF:-1 group-title="Deportes",TNT Sports Argentina
+#EXTINF:-1 group-title="Deportes Argentina",TNT Sports Premium
 https://93.domhsd.com/tntar/tracks-v1a1/mono.m3u8?ip=181.9.116.183&token=fce0b1ee6dd216de22bc1f2e57ed27440b6b842a-b7-1793179312-1793125312
+
+#EXTINF:-1 group-title="Deportes Argentina",TyC Sports HD
+https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8
+
+#EXTINF:-1 group-title="Deportes",ESPN (Latinoamérica)
+http://201.230.121.186:8000/play/a0fi/index.m3u8
+
+#EXTINF:-1 group-title="Deportes",ESPN Premium
+http://201.230.121.186:8000/play/a0n6/index.m3u8
+
+#EXTINF:-1 group-title="Deportes",ESPN 2
+http://201.230.121.186:8000/play/a0kd/index.m3u8
+
+#EXTINF:-1 group-title="Deportes",ESPN 3
+http://201.230.121.186:8000/play/a0jg/index.m3u8
+
+#EXTINF:-1 group-title="Deportes",ESPN 4
+http://201.230.121.186:8000/play/a0mv/index.m3u8
+
+#EXTINF:-1 group-title="Deportes",ESPN 5
+http://201.230.121.186:8000/play/a0ij/index.m3u8
+
+#EXTINF:-1 group-title="Deportes",ESPN 6
+http://201.230.121.186:8000/play/a0mx/index.m3u8
+
+#EXTINF:-1 group-title="Deportes",ESPN 7
+http://201.230.121.186:8000/play/a0dz/index.m3u8
+
+#EXTINF:-1 group-title="Deportes",ESPN Deportes (US)
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/110817.ts
