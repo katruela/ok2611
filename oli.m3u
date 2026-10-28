@@ -1,235 +1,33 @@
-#EXTM3U url-tvg="http://m3u4u.com/epg/5g28neqwpdsdm2ggnzpe" x-generator="https://m3u4u.com/"
-#EXTINF:-1 group-title="RONPlay" tvg-logo="https://i.imgur.com/WZjXFno.png" tvg-id="dummy.welcome-to-ronplay (m3u4u)",Welcome to RONPlay
-http://a1.phobos.apple.com/us/r1000/000/Features/atv/AutumnResources/videos/comp_HK_B005_C011_t9_6M_tag0.mov
-#EXTINF:-1 group-title="RONPlay" tvg-logo="https://i.imgur.com/3QS5uZ2.png" tvg-id="dummy.channel-of-the-month (m3u4u)",RONPlay's Channel of The Month
-http://91.146.94.234:10001/play/a08y
-#EXTINF:-1 group-title="RONPlay" tvg-logo="https://i.imgur.com/4Nv3JIP.png" tvg-id="",RONOne
-https://unetwork.brtk.eu/hls/unitv_ronone_ec4cbc3d36b82bd8020b2246074ae735.m3u8
-#EXTINF:-1 group-title="RONPlay | Webchannels" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/d/da/Boomerang_2000_Alt_2.png" tvg-id="",Boomerang Classic
-https://hugh.cdn.rumble.cloud/live/d5a20b4d/slot-95/7vdv-22oh/chunklist.m3u8
-#EXTINF:-1 group-title="RONPlay | Webchannels" tvg-logo="https://i.imgur.com/VolAq6g.png" tvg-id="",Cyn's Music Channel
-https://webtv.cyn.cz/iptv/channel/3.m3u8?mode=segmenter
-#EXTINF:-1 group-title="RONPlay | Webchannels" tvg-logo="https://webtv.cyn.cz/iptv/logos/gen?text=UPC+Slowpress" tvg-id="C4.148.ersatztv.org",UPC Slowpress
-https://webtv.cyn.cz/iptv/channel/4.ts
-#EXTINF:-1 group-title="RONPlay | Webchannels" tvg-logo="https://cdn.vaughnsoft.net/profile/1781875585/eel_ch.jpg" tvg-id="",Eel Channel
-https://mci01.nive.live/28/index.m3u8
-#EXTINF:-1 group-title="RONPlay | Webchannels" tvg-logo="https://static.wikitide.net/indietvwiki/thumb/a/a1/TD_AGAIN.png/800px-TD_AGAIN.png" tvg-id="",Toon Disney
-https://mci01.nive.live/29/index.m3u8
-#EXTINF:-1 group-title="RONPlay | Webchannels" tvg-logo="https://api.mistweather.com/api/v1.5/image/a5dacfb2-b663-40f8-a959-9cf03326f28c?width=96&height=96&fit=inside" tvg-id="",Magical
-https://watch.mistweather.com/hls/magicaltv/playlist.m3u8
-#EXTINF:-1 group-title="RONPlay | Webchannels" tvg-logo="https://static.wikitide.net/indietvwiki/2/22/Animax_NA_logo_%282025-12-05%29-v1234.svg" tvg-id="",Animax_NA
-https://animax.live/hls/stream.m3u8
-#EXTINF:-1 group-title="RONPlay | Webchannels" tvg-logo="https://whiplash.cc/assets/img/channels/whiplash.png" tvg-id="C1.1.146.ersatztv.org",Whiplash
-https://cdn.whiplash.cc/whiplash/index.m3u8
-#EXTINF:-1 group-title="RONPlay | Webchannels" tvg-logo="https://whiplash.cc/assets/img/channels/whiplash2.png" tvg-id="C2.1.147.ersatztv.org",Whiplash 2
-https://cdn.whiplash.cc/whiplash-2/index.m3u8
-#EXTINF:-1 group-title="RONPlay | Webchannels" tvg-logo="https://whiplash.cc/assets/img/channels/whiplashcinema.png" tvg-id="C3.1.148.ersatztv.org",Whiplash Cinema
-https://cdn.whiplash.cc/whiplash-cinema/index.m3u8
-#EXTINF:-1 group-title="RONPlay | Webchannels" tvg-logo="https://whiplash.cc/assets/img/channels/windowtv.png" tvg-id="C3.147.ersatztv.org",Window TV
-https://cdn.whiplash.cc/whiplash-windowtv/index.m3u8
-#EXTINF:-1 group-title="RONPlay | Webchannels" tvg-logo="https://whiplash.cc/assets/img/channels/atlas.png" tvg-id="C7.151.ersatztv.org",Atlas
-https://cdn.whiplash.cc/whiplash-atlas/index.m3u8
-#EXTINF:-1 group-title="RONPlay | Webchannels" tvg-logo="https://static.wikitide.net/indietvwiki/0/03/Placid_%282026%29.svg" tvg-id="",Placid
-https://toy.vcdn.fyi/placid/index.m3u8
-#EXTINF:-1 group-title="RONPlay | Webchannels" tvg-logo="https://cdn271.picsart.com/75891461-9dd5-4bea-95bd-6734c0c09cef/519662189009201.png?to=crop&type=webp&r=540x540&q=85" tvg-id="dummy.vaulto-cinema-4k (m3u4u)",Vaulto Cinema 4K
-http://199.245.173.253:5004/auto/v3.12
-#EXTINF:-1 group-title="RONPlay | FIFA World Cup 2026" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/das-erste-de.png" tvg-id="Das.Erste.de (src05)",[FIFA World Cup 2026] Das Erste HD
-https://netplus.zappr.stream/daserstehd.m3u8
-#EXTINF:-1 group-title="RONPlay | FIFA World Cup 2026" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/zdf-de.png" tvg-id="ZDF.de (src05)",[FIFA World Cup 2026] ZDF HD
-https://netplus.zappr.stream/zdfhd.m3u8
-#EXTINF:-1 group-title="RONPlay | FIFA World Cup 2026" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111692_dark_360w_270h.png" tvg-id="DEL8DE.de (m3u4u)",[FIFA World Cup 2026] MS Sport HD
-http://tvsystem.my:80/live/rontv/203872912920/36136725.ts
-#EXTINF:-1 group-title="RONPlay | FIFA World Cup 2026" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/austria/orf1-at.png?raw=true" tvg-id="ORF.1.ch (src05)",[FIFA World Cup 2026] ORF 1 HD
-http://tvsystem.my:80/live/rontv/203872912920/31454.ts
-#EXTINF:-1 group-title="RONPlay | FIFA World Cup 2026" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/austria/orf-sport-plus-at.png?raw=true" tvg-id="ORF.Sport.+.ch (src05)",[FIFA World Cup 2026] ORF Sport+ HD
-http://tvsystem.my:80/live/rontv/203872912920/31466.ts
-#EXTINF:-1 group-title="RONPlay | FIFA World Cup 2026" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/austria/servus-tv-at.png?raw=true" tvg-id="Servus.TV.ch (src05)",[FIFA World Cup 2026] Servus TV HD
-http://tvsystem.my:80/live/rontv/203872912920/31476.ts
-#EXTINF:-1 group-title="RONPlay | FIFA World Cup 2026" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-1-it.png" tvg-id="Rai1.it (src05)",[FIFA World Cup 2026] Rai 1 HD
-http://91.146.94.234:10001/play/a08y
-#EXTINF:-1 group-title="RONPlay | FIFA World Cup 2026" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-2-it.png" tvg-id="Rai2.it (src05)",[FIFA World Cup 2026] Rai 2 HD
-http://91.146.94.234:10001/play/a132
-#EXTINF:-1 group-title="RONPlay | FIFA World Cup 2026" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-3-it.png" tvg-id="Rai3.it (src05)",[FIFA World Cup 2026] Rai 3 HD
-http://91.146.94.234:10001/play/a133
-#EXTINF:-1 group-title="RONPlay | FIFA World Cup 2026" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-sport-it.png" tvg-id="RAI.Sport...227.it (src05)",[FIFA World Cup 2026] Rai Sport HD
-http://91.146.94.234:10001/play/ars1
-#EXTINF:-1 group-title="RONPlay | FIFA World Cup 2026" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/m4-sport-hu.png" tvg-id="m4.hu (src05)",[FIFA World Cup 2026] M4 Sport HD
-http://46.149.191.217:9001/play/a02h
-#EXTINF:-1 group-title="RONPlay | FIFA World Cup 2026" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Logo_TV_JOJ_-_2020.svg/960px-Logo_TV_JOJ_-_2020.svg.png" tvg-id="JOJ.HD.sk (src05)",[FIFA World Cup 2026] TV JOJ HD
-http://88.212.15.19/live/test_joj_25p/playlist.m3u8
-#EXTINF:-1 group-title="RONPlay | FIFA World Cup 2026" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/STVR_Sport_%282026%29.svg/1920px-STVR_Sport_%282026%29.svg.png" tvg-id=":ŠPORT.HD.sk (src05)",[FIFA World Cup 2026] RTVS Šport HD
-http://88.212.15.19/live/test_rtvs_sport_hevc/playlist.m3u8
-#EXTINF:-1 group-title="RONPlay | FIFA World Cup 2026" tvg-logo="https://files.cdn.magio.tv/tv_logos/joj-sport-hd.png" tvg-id="JOJ.ŠPORT.HD.sk (src05)",[FIFA World Cup 2026] JOJ Šport HD
-http://88.212.15.29/live/test_joj_sport_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="RONPlay | FIFA World Cup 2026" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/tvp-sport-pl.png" tvg-id="TVP.Sport.pl (src05)",[FIFA World Cup 2026] TVP Sport HD
-http://91.146.94.234:10001/play/a07f
-#EXTINF:-1 group-title="RONPlay | FIFA World Cup 2026" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/tvp1-pl.png" tvg-id="TVP.1.pl (src05)",[FIFA World Cup 2026] TVP 1 HD
-http://91.146.94.234:10001/play/a09e
-#EXTINF:-1 group-title="RONPlay | FIFA World Cup 2026" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/netherlands/npo1-nl.png" tvg-id="NPO1.nl (src01)",[FIFA World Cup 2026] NPO 1 HD
-http://31.149.103.41:8000/play/1/index.m3u8
-#EXTINF:-1 group-title="RONPlay | FIFA World Cup 2026" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/ert1-gr.png?raw=true" tvg-id="ERT 1 HD DTT.gr (src09)",[FIFA World Cup 2026] ERT 1 HD
-https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT1/default/index.m3u8
-#EXTINF:-1 group-title="RONPlay | FIFA World Cup 2026" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/ert2-spor-gr.png?raw=true" tvg-id="EPT2.gr (src01)",[FIFA World Cup 2026] ERT 2 Spor HD
-https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT2/default/index.m3u8
-#EXTINF:-1 group-title="RONPlay | FIFA World Cup 2026" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-us.png" tvg-id="WNYW-DT.us_locals1 (src05)",[FIFA World Cup 2026] WNYW HD (Fox 5)
-http://kstv.us:8080/live/eN9amyNnBY/76157163193/49426.ts
-#EXTINF:-1 group-title="RONPlay | FIFA World Cup 2026" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-sports-1-us.png" tvg-id="FS1.Fox.Sports.1.HD.us2 (src05)",[FIFA World Cup 2026] Fox Sports 1 HD
-http://kstv.us:8080/live/eN9amyNnBY/76157163193/15948.ts
-#EXTINF:-1 group-title="RONPlay | FIFA World Cup 2026" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-1-ca.png" tvg-id="TSN.1.ca2 (src05)",[FIFA World Cup 2026] TSN1 HD
-http://161.129.178.5/tsn/playlist.m3u8
-#EXTINF:-1 group-title="RONPlay | FIFA World Cup 2026" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-2-ca.png" tvg-id="TSN.2.ca2 (src05)",[FIFA World Cup 2026] TSN2 HD
-http://161.129.178.5/tsn2/playlist.m3u8
-#EXTINF:-1 group-title="RONPlay | FIFA World Cup 2026" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/romania/antena-1-ro.png?raw=true" tvg-id="Antena.1.ro (src05)",[FIFA World Cup 2026] Antena 1 HD
-http://tvsystem.my:80/live/rontv/203872912920/47849.ts
-#EXTINF:-1 group-title="RONPlay | FIFA World Cup 2026" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/tve-1-es.png?raw=true" tvg-id="La.1.es (src05)",[FIFA World Cup 2026] La 1 HD
-http://92.176.119.180:2095/play/a1g0
-#EXTINF:-1 group-title="RONPlay | FIFA World Cup 2026" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/tdp-es.png?raw=true" tvg-id="Teledeporte.es (src09)",[FIFA World Cup 2026] Teledeporte HD
-http://92.176.119.180:2095/play/a1f6
-#EXTINF:-1 group-title="RONPlay | FIFA World Cup 2026" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/nordic/finland/yle-tv2-fi.png?raw=true" tvg-id="YLE2HD.fi (m3u4u)",[FIFA World Cup 2026] Yle TV2 HD
-http://tvsystem.my:80/live/rontv/203872912920/44435.ts
-#EXTINF:-1 group-title="RONPlay | FIFA World Cup 2026" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/nordic/finland/mtv3-fi.png?raw=true" tvg-id="MTVFHD.fi (m3u4u)",[FIFA World Cup 2026] MTV3 HD
-http://tvsystem.my:80/live/rontv/203872912920/44440.ts
-#EXTINF:-1 group-title="RONPlay | FIFA World Cup 2026" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/bbc-one-uk.png" tvg-id="BBC.One.Lon.HD.uk (src05)",[FIFA World Cup 2026] BBC One HD
-http://tvsystem.my:80/live/rontv/203872912920/36752.ts
-#EXTINF:-1 group-title="RONPlay | FIFA World Cup 2026" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/itv-1-uk.png" tvg-id="ITV1.HD.uk (src05)",[FIFA World Cup 2026] ITV1 HD
-http://tvsystem.my:80/live/rontv/203872912920/36756.ts
-#EXTINF:-1 group-title="RONPlay | FIFA World Cup 2026" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/nova.png" tvg-id="Nova.cz (src05)",[FIFA World Cup 2026] TV Nova HD
-http://88.212.15.19/live/nova_avc_25p/playlist.m3u8
-#EXTINF:-1 group-title="RONPlay | FIFA World Cup 2026" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/nova_action.png" tvg-id="Nova.Action.cz (src05)",[FIFA World Cup 2026] Nova Action HD
-http://88.212.15.19/live/nova_action_avc_25p/playlist.m3u8
-#EXTINF:-1 group-title="RONPlay | FIFA World Cup 2026" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/czech-republic/ct-sport-cz.png?raw=true" tvg-id="ČT.sport.cz (src05)",[FIFA World Cup 2026] ČT Sport HD
-http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
-#EXTINF:-1 group-title="RONPlay | FIFA World Cup 2026" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/m6-fr.png" tvg-id="M6.fr (src05)",[FIFA World Cup 2026] M6 HD
-http://176.65.146.100:8047/play/a077/index.m3u8
-#EXTINF:-1 group-title="RONPlay | F1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/f1-tv-int.png?raw=true" tvg-id="dummy.ronplay-f1-ppv.2e4ce42cc7e0122011538b0d5dfdcd842f61d67a889fa16c06be49ec9add1077 (m3u4u)",F1 TV
-https://tv.media4u.top:443/live/media4u/media4u/15727.ts
-#EXTINF:-1 group-title="RONPlay | F1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/f1-tv-int.png?raw=true" tvg-id="dummy.ronplay-f1-ppv.e7b21f9d4783c793d704c24bc87a033f866d8fca23b29a14739bc3e40f7650f5 (m3u4u)",F1 - Timing
-http://benchoda.xyz:8880/live/andylilly/102369/4545178.ts
-#EXTINF:-1 group-title="RONPlay | F1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/f1-tv-int.png?raw=true" tvg-id="dummy.ronplay-f1-ppv.15a9bc3c78dd36aa656a8a708129e9c0029af863a1605c93c807a9e49bb04496 (m3u4u)",F1 - Tracker
-http://benchoda.xyz:8880/live/andylilly/102369/4545176.ts
-#EXTINF:-1 group-title="RONPlay | F1" tvg-logo="https://media.formula1.com/image/upload/c_lfill,w_48/q_auto/v1740000001/common/f1/2026/mercedes/2026mercedeslogowhite.webp" tvg-id="dummy.ronplay-f1-ppv.802bcd66722f8e0c8fe9df853fc236b36815d3a42e47df78455ca010af7e30ea (m3u4u)",F1 - Mercedes: George Russell
-http://benchoda.xyz:8880/live/andylilly/102369/4545159.ts
-#EXTINF:-1 group-title="RONPlay | F1" tvg-logo="https://media.formula1.com/image/upload/c_lfill,w_48/q_auto/v1740000001/common/f1/2026/mercedes/2026mercedeslogowhite.webp" tvg-id="dummy.ronplay-f1-ppv.5596afc0a232fbdf43b70c75825a46dc146efd0818e4ea08565c0b1dd6c5c57b (m3u4u)",F1 - Mercedes: Kimi Antonelli
-http://benchoda.xyz:8880/live/andylilly/102369/4545170.ts
-#EXTINF:-1 group-title="RONPlay | F1" tvg-logo="https://media.formula1.com/image/upload/c_lfill,w_48/q_auto/v1740000001/common/f1/2026/ferrari/2026ferrarilogowhite.webp" tvg-id="dummy.ronplay-f1-ppv.704a9ab22e7fe4a731e0e26f521f01b0c5ba0e073ed35ace7e95368235d6dd1d (m3u4u)",F1 - Ferrari: Charles Leclerc
-http://benchoda.xyz:8880/live/andylilly/102369/4545157.ts
-#EXTINF:-1 group-title="RONPlay | F1" tvg-logo="https://media.formula1.com/image/upload/c_lfill,w_48/q_auto/v1740000001/common/f1/2026/ferrari/2026ferrarilogowhite.webp" tvg-id="dummy.ronplay-f1-ppv.0f05cd32ebb4c7511fc6e69acc56e425f39dd424982f7628d965ae67eb24326e (m3u4u)",F1 - Ferrari: Lewis Hamilton
-http://benchoda.xyz:8880/live/andylilly/102369/4545155.ts
-#EXTINF:-1 group-title="RONPlay | F1" tvg-logo="https://media.formula1.com/image/upload/c_lfill,w_48/q_auto/v1740000001/common/f1/2026/mclaren/2026mclarenlogowhite.webp" tvg-id="dummy.ronplay-f1-ppv.2001a73c8ded1a38f67b7fbce960feb820b8d4e65c93e0b11ccb46b41a560abf (m3u4u)",F1 - McLaren: Lando Norris
-http://benchoda.xyz:8880/live/andylilly/102369/4545156.ts
-#EXTINF:-1 group-title="RONPlay | F1" tvg-logo="https://media.formula1.com/image/upload/c_lfill,w_48/q_auto/v1740000001/common/f1/2026/mclaren/2026mclarenlogowhite.webp" tvg-id="dummy.ronplay-f1-ppv.40df2f7eba64af90ad18c7288f06418318171338d726514f67d5b840d54eee76 (m3u4u)",F1 - McLaren: Oscar Piastri
-http://benchoda.xyz:8880/live/andylilly/102369/4545162.ts
-#EXTINF:-1 group-title="RONPlay | F1" tvg-logo="https://media.formula1.com/image/upload/c_lfill,w_48/q_auto/v1740000001/common/f1/2026/haasf1team/2026haasf1teamlogowhite.webp" tvg-id="dummy.ronplay-f1-ppv.28d909854af5dc9ce13ca9e0fd64566c8c02b4000b62d151b060423c30c22887 (m3u4u)",F1 - Hass: Esteban Ocon
-http://benchoda.xyz:8880/live/andylilly/102369/4545162.ts
-#EXTINF:-1 group-title="RONPlay | F1" tvg-logo="https://media.formula1.com/image/upload/c_lfill,w_48/q_auto/v1740000001/common/f1/2026/haasf1team/2026haasf1teamlogowhite.webp" tvg-id="dummy.ronplay-f1-ppv.dcb4065321b9e1cc29c6781ebb9fc31f5d01cba614c62378471fdebe0455512b (m3u4u)",F1 - Hass: Oliver Bearman
-http://benchoda.xyz:8880/live/andylilly/102369/4545164.ts
-#EXTINF:-1 group-title="RONPlay | F1" tvg-logo="https://media.formula1.com/image/upload/c_lfill,w_48/q_auto/v1740000001/common/f1/2026/alpine/2026alpinelogowhite.webp" tvg-id="dummy.ronplay-f1-ppv.9834854354aee29897aa338908172ec6cd75007ef56bac161ec5982c32c088a7 (m3u4u)",F1 - Alpine: Pierre Gasly
-http://benchoda.xyz:8880/live/andylilly/102369/4545163.ts
-#EXTINF:-1 group-title="RONPlay | F1" tvg-logo="https://media.formula1.com/image/upload/c_lfill,w_48/q_auto/v1740000001/common/f1/2026/alpine/2026alpinelogowhite.webp" tvg-id="dummy.ronplay-f1-ppv.64a1f0e68e0202925804d81fe96fa9634d3f27af061000dc57b2b43ec3772f7b (m3u4u)",F1 - Alpine: Franco Colapinto
-http://benchoda.xyz:8880/live/andylilly/102369/4545172.ts
-#EXTINF:-1 group-title="RONPlay | F1" tvg-logo="https://media.formula1.com/image/upload/c_lfill,w_48/q_auto/v1740000001/common/f1/2026/redbullracing/2026redbullracinglogowhite.webp" tvg-id="dummy.ronplay-f1-ppv.cb07b9af8d26aa86357ca18c5860b258c1493b61130766b3bc33094b6751691e (m3u4u)",F1 - Red Bull: Max Verstappen
-http://benchoda.xyz:8880/live/andylilly/102369/4545154.ts
-#EXTINF:-1 group-title="RONPlay | F1" tvg-logo="https://media.formula1.com/image/upload/c_lfill,w_48/q_auto/v1740000001/common/f1/2026/redbullracing/2026redbullracinglogowhite.webp" tvg-id="dummy.ronplay-f1-ppv.c1b6bddf9e1f6a9af67b70edd310393629771ef9e9be98cb3a2d241ac387d3dd (m3u4u)",F1 - Red Bull: Isack Hadjar
-http://benchoda.xyz:8880/live/andylilly/102369/4545174.ts
-#EXTINF:-1 group-title="RONPlay | F1" tvg-logo="https://media.formula1.com/image/upload/c_lfill,w_48/q_auto/v1740000001/common/f1/2026/racingbulls/2026racingbullslogowhite.webp" tvg-id="dummy.ronplay-f1-ppv.30e51cc3bf2b4b037c9ad94a7ec7c8e79e9e0c1ec408b17f7aead0249207c597 (m3u4u)",F1 - Racing Bulls: Liam Lawson
-http://benchoda.xyz:8880/live/andylilly/102369/4545169.ts
-#EXTINF:-1 group-title="RONPlay | F1" tvg-logo="https://media.formula1.com/image/upload/c_lfill,w_48/q_auto/v1740000001/common/f1/2026/racingbulls/2026racingbullslogowhite.webp" tvg-id="dummy.ronplay-f1-ppv.2f0dc994c366d88a4b6e210a5b8e314edbfa2d10fd3fcb07b249431ff0ef162f (m3u4u)",F1 - Racing Bulls: Arvid Lindblad
-http://benchoda.xyz:8880/live/andylilly/102369/4545175.ts
-#EXTINF:-1 group-title="RONPlay | F1" tvg-logo="https://media.formula1.com/image/upload/c_lfill,w_48/q_auto/v1740000001/common/f1/2026/audi/2026audilogowhite.webp" tvg-id="dummy.ronplay-f1-ppv.a567ccda53bf4b817c10e9b44820821b6bb5d96f106793a071b0d4554a89eadf (m3u4u)",F1 - Audi: Nico Hulkenberg
-http://benchoda.xyz:8880/live/andylilly/102369/4545168.ts
-#EXTINF:-1 group-title="RONPlay | F1" tvg-logo="https://media.formula1.com/image/upload/c_lfill,w_48/q_auto/v1740000001/common/f1/2026/audi/2026audilogowhite.webp" tvg-id="dummy.ronplay-f1-ppv.4b5a7f571e82d0af8d7c0f8872b23beaa7ef3d731caca8674ea93f4de974c943 (m3u4u)",F1 - Audi: Gabriel Bortoleto
-http://benchoda.xyz:8880/live/andylilly/102369/4545173.ts
-#EXTINF:-1 group-title="RONPlay | F1" tvg-logo="https://media.formula1.com/image/upload/c_lfill,w_48/q_auto/v1740000001/common/f1/2026/williams/2026williamslogowhite.webp" tvg-id="dummy.ronplay-f1-ppv.9847f0c607b6842daadfedcbdb826774dec5be2c6c34ac7746e97a21d73d6caa (m3u4u)",F1 - Williams: Carlos Sainz
-http://benchoda.xyz:8880/live/andylilly/102369/4545158.ts
-#EXTINF:-1 group-title="RONPlay | F1" tvg-logo="https://media.formula1.com/image/upload/c_lfill,w_48/q_auto/v1740000001/common/f1/2026/williams/2026williamslogowhite.webp" tvg-id="dummy.ronplay-f1-ppv.72500a120d100ddad0ab7abc43b1bf6468b57889064fafead98461754dc52ce1 (m3u4u)",F1 - Williams: Alexander Albon
-http://benchoda.xyz:8880/live/andylilly/102369/4545166.ts
-#EXTINF:-1 group-title="RONPlay | F1" tvg-logo="https://media.formula1.com/image/upload/c_lfill,w_48/q_auto/v1740000001/common/f1/2026/cadillac/2026cadillaclogowhite.webp" tvg-id="dummy.ronplay-f1-ppv.4c9658652b63543eb85dea9a8e839edf6eef682a75030250ee06441cfa053183 (m3u4u)",F1 - Cadillac: Sergio Perez
-http://benchoda.xyz:8880/live/andylilly/102369/4545166.ts
-#EXTINF:-1 group-title="RONPlay | F1" tvg-logo="https://media.formula1.com/image/upload/c_lfill,w_48/q_auto/v1740000001/common/f1/2026/cadillac/2026cadillaclogowhite.webp" tvg-id="dummy.ronplay-f1-ppv.5c69b76f70495e25b64c2a7d09f6e2fc636b95acb81a8f7c8fa8fda17b656e1d (m3u4u)",F1 - Cadillac: Valtteri Bottas
-http://benchoda.xyz:8880/live/andylilly/102369/4545167.ts
-#EXTINF:-1 group-title="RONPlay | F1" tvg-logo="https://media.formula1.com/image/upload/c_lfill,w_48/q_auto/v1740000001/common/f1/2026/astonmartin/2026astonmartinlogowhite.webp" tvg-id="dummy.ronplay-f1-ppv.7fd6d3c2ca21eb2b2e1a253e5a2a6e2aa6c40112d6c3f5842d19c2c00f830710 (m3u4u)",F1 - Aston Martin: Fernando Alonso
-http://benchoda.xyz:8880/live/andylilly/102369/4545167.ts
-#EXTINF:-1 group-title="RONPlay | F1" tvg-logo="https://media.formula1.com/image/upload/c_lfill,w_48/q_auto/v1740000001/common/f1/2026/astonmartin/2026astonmartinlogowhite.webp" tvg-id="dummy.ronplay-f1-ppv.30d03003f7cdae6b42866d6d9d6890e0f8d833f1835e4bdec91aba0e9667fbdf (m3u4u)",F1 - Aston Martin: Lance Stroll
-http://benchoda.xyz:8880/live/andylilly/102369/4545165.ts
-#EXTINF:-1 group-title="FR | Générale" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24462_dark_360w_270h.png" tvg-id="TF1.fr (src05)",TF1 HD
-http://176.65.146.100:8047/play/a07d/index.m3u8
-#EXTINF:-1 group-title="FR | Générale" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/france-2-fr.png" tvg-id="France.2.fr (src05)",France 2 HD
-http://176.65.146.100:8047/play/a073/index.m3u8
-#EXTINF:-1 group-title="FR | Générale" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/france-3-fr.png" tvg-id="France.3.fr (src05)",France 3 HD
-http://176.65.146.100:8047/play/a076/index.m3u8
-#EXTINF:-1 group-title="FR | Générale" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/arte-fr.png" tvg-id="Arte.fr (src05)",Arte HD
-http://176.65.146.100:8047/play/a079/index.m3u8
-#EXTINF:-1 group-title="FR | Générale" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/france-5-fr.png" tvg-id="France.5.fr (src05)",France 5 HD
-http://176.65.146.100:8047/play/a07a/index.m3u8
-#EXTINF:-1 group-title="FR | Générale" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/m6-fr.png" tvg-id="M6.fr (src05)",M6 HD
-http://157.250.206.170:1234/stream/m6plus/m6/master.m3u8
-#EXTINF:-1 group-title="FR | Générale" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/rmc-story-fr.png" tvg-id="RMC.Story.fr (src05)",RMC Story HD
-http://176.65.146.100:8047/play/a07m/index.m3u8
-#EXTINF:-1 group-title="FR | Générale" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/t18-fr.png" tvg-id="T18.fr (src05)",T18 HD
-http://tvsystem.my:80/live/rontv/203872912920/52667.ts
-#EXTINF:-1 group-title="FR | Générale" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/w9-fr.png" tvg-id="W9.fr (src05)",W9 HD
-http://157.250.206.170:1234/stream/m6plus/w9/master.m3u8
-#EXTINF:-1 group-title="FR | Générale" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/tmc-fr.png" tvg-id="TMC.fr (src05)",TMC HD
-http://176.65.146.100:8047/play/a07f/index.m3u8
-#EXTINF:-1 group-title="FR | Générale" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/tfx-fr.png" tvg-id="TFX.fr (src05)",TFX HD
-http://176.65.146.100:8047/play/a07g/index.m3u8
-#EXTINF:-1 group-title="FR | Générale" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/rmc-life-fr.png" tvg-id="Chérie.25.fr (src05)",RMC Life HD
-http://176.65.146.100:8047/play/a07k/index.m3u8
-#EXTINF:-1 group-title="FR | Cinéma" tvg-logo="https://tv.cdnartwhere.eu/images/logos_chaines/10.png" tvg-id="Action.fr (src05)",Action HD
-https://tv.media4u.top:443/live/media4u/media4u/735631.ts
-#EXTINF:-1 group-title="FR | Cinéma" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/tcm-cinema-fr.png?raw=true" tvg-id="TCM.Cinéma.fr (src05)",TCM Cinema HD
-https://tv.media4u.top:443/live/media4u/media4u/869000.ts
-#EXTINF:-1 group-title="FR | Cinéma" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/canal-plus-fr.png" tvg-id="Canal+.fr (src05)",Canal+ HD
-https://tv.media4u.top:443/live/media4u/media4u/425185.ts
-#EXTINF:-1 group-title="FR | Cinéma" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/5acb0725-adb5-49f2-9fbb-bf015f1faf34_W90.png" tvg-id="Canal+.Cinéma(s).fr (src05)",Canal+ Cinema(s) HD
-https://tv.media4u.top:443/live/media4u/media4u/84146.ts
-#EXTINF:-1 group-title="FR | Cinéma" tvg-logo="https://services.sg101.prd.sctv.ch/content/images/tv/channel/547a9e6c-ff44-f110-8d5c-dcc8c51e1f06_W90.png" tvg-id="Canal+.Grand.Ecran.fr (src05)",Canal+ Grand Ecran HD
-https://tv.media4u.top:443/live/media4u/media4u/227945.ts
-#EXTINF:-1 group-title="FR | Cinéma" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/canal-plus-box-office-fr.png" tvg-id="CANAL+BOX.OFFICE.fr (src05)",Canal+ Box-Office HD
-https://tv.media4u.top:443/live/media4u/media4u/534840.ts
-#EXTINF:-1 group-title="FR | Cinéma" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/ocs-fr.png" tvg-id="OCS.fr (src05)",OCS HD
-https://tv.media4u.top:443/live/media4u/media4u/758698.ts
-#EXTINF:-1 group-title="FR | Cinéma" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/cine-plus-frisson-fr.png" tvg-id="Ciné+.Frisson.fr (src05)",Cine+ Frisson HD
-https://tv.media4u.top:443/live/media4u/media4u/578180.ts
-#EXTINF:-1 group-title="FR | Cinéma" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/cine-plus-emotion-fr.png" tvg-id="Ciné+.Emotion.fr (src05)",Cine+ Emotion HD
-https://tv.media4u.top:443/live/media4u/media4u/42653.ts
-#EXTINF:-1 group-title="FR | Cinéma" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/cine-plus-family-fr.png" tvg-id="Ciné+.Family.fr (src05)",Cine+ Family HD
-https://tv.media4u.top:443/live/media4u/media4u/293809.ts
-#EXTINF:-1 group-title="FR | Cinéma" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/cine-plus-festival-fr.png" tvg-id="Ciné+.Festival.fr (src05)",Cine+ Festival HD
-https://tv.media4u.top:443/live/media4u/media4u/657090.ts
-#EXTINF:-1 group-title="FR | Cinéma" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/cine-plus-classic-fr.png" tvg-id="Ciné+.Classic.fr (src05)",Cine+ Classic HD
-https://tv.media4u.top:443/live/media4u/media4u/832259.ts
-#EXTINF:-1 group-title="FR | Cinéma" tvg-logo="https://i.imgur.com/pXsZEsR.png" tvg-id="dummy.sony-one-hits-action.a352006f4ad60e7b7d0dfa7948fafcb144d04d0afc514027bdb2536094b1e743 (m3u4u)",Sony One Hits Action HD
-https://d1tvu4639eiqii.cloudfront.net/playlist.m3u8
-#EXTINF:-1 group-title="FR | Cinéma" tvg-logo="https://i.imgur.com/8sHuxxS.png" tvg-id="dummy.sony-one-hits-comedie.aff7d49ab53b8366bde0d34740dab10b3309a25d05736d6701538fa99242bc06 (m3u4u)",Sony One Hits Comedie HD
-https://d3nvxupr08boay.cloudfront.net/playlist.m3u8
-#EXTINF:-1 group-title="FR | Série" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/ab1-fr.png?raw=true" tvg-id="AB1.fr (src05)",AB1 HD
-https://tv.media4u.top:443/live/media4u/media4u/705498.ts
-#EXTINF:-1 group-title="FR | Série" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/warner-tv-fr.png" tvg-id="Warner.TV.fr (src05)",Warner TV HD [FR]
-https://tv.media4u.top:443/live/media4u/media4u/935866.ts
-#EXTINF:-1 group-title="FR | Série" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/tv-breizh-fr.png" tvg-id="TV.Breizh.fr (src05)",TV Breizh HD
-http://tvsystem.my:80/live/rontv/203872912920/52767.ts
-#EXTINF:-1 group-title="FR | Série" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/comedy-central-es.png" tvg-id="Comedy.Central.fr (src05)",Comedy Central HD [FR]
-http://tvsystem.my:80/live/rontv/203872912920/52773.ts
-#EXTINF:-1 group-title="FR | Série" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/polar-plus-fr.png" tvg-id="Polar+.fr (src05)",Polar+ HD
-http://tvsystem.my:80/live/rontv/203872912920/52746.ts
-#EXTINF:-1 group-title="FR | Série" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/serie-club-fr.png" tvg-id="SERIE.CLUB.fr (src05)",Sérieclub HD
-http://tvsystem.my:80/live/rontv/203872912920/52764.ts
-#EXTINF:-1 group-title="FR | Série" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/rtl9-fr.png?raw=true" tvg-id="RTL.9.fr (src05)",RTL9 HD
-https://tv.media4u.top:443/live/media4u/media4u/563858.ts
-#EXTINF:-1 group-title="FR | Série" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/belgium/13eme-rue-be.png" tvg-id="13ème.Rue.fr (src05)",13Eme Rue HD
-https://tv.media4u.top:443/live/media4u/media4u/562560.ts
-#EXTINF:-1 group-title="FR | Série" tvg-logo="https://i.logos-download.com/114580/33731-og-c9038f2dec1e52b089ab5af4cc968628.png/SciFi_Logo_2026-og.png" tvg-id="Syfy.fr (src05)",SciFi HD
-https://tv.media4u.top:443/live/media4u/media4u/905820.ts
-#EXTINF:-1 group-title="FR | Série" tvg-logo="https://i.imgur.com/RO4AM4b.png" tvg-id="dummy.sony-one-favoris.c0ae04fc17b209e66fbd974c148ac546bf4e8e982571508f15b30657bedd94e0 (m3u4u)",Sony One Favoris HD
-https://d21fkiqbljd83t.cloudfront.net/playlist.m3u8
-#EXTINF:-1 group-title="FR | Série" tvg-logo="https://i.imgur.com/uJC8rXr.png" tvg-id="dummy.sony-one-blacklist.80893aa6d4bac0787dd2425b388158f719eed48d12634c0013aeb1b615755270 (m3u4u)",Sony One Blacklist HD
-https://d1x87j1jmcypab.cloudfront.net/playlist.m3u8
-#EXTINF:-1 group-title="FR | Série" tvg-logo="https://i.ibb.co/ns4Md77B/FR-FAST-Plex-Comedy-TV-logo-dark.png" tvg-id="dummy.sony-one-series-comedie.d05302ffb4de4d56cbcf7a0286e635f369e49a9fac8b24d087e97f149ce3b674 (m3u4u)",Sony One Series Comedie HD
-https://d1d95b9dbrm3cl.cloudfront.net/playlist.m3u8
-#EXTINF:-1 group-title="FR | Série" tvg-logo="https://i.imgur.com/RVS8LDj.png" tvg-id="dummy.sony-one-series-thriller.2f390d80828b57021c73a0dedca726cf5ee6acef3ddc50e002c561e8518e174b (m3u4u)",Sony One Series Thriller HD
-https://d1573iiyr4aa7c.cloudfront.net/playlist.m3u8
-#EXTINF:-1 group-title="FR | Enfants" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/cartoon-network-fr.png?raw=true" tvg-id="Cartoon.Network.fr (src05)",Cartoon Network HD FR
-https://tv.media4u.top:443/live/media4u/media4u/318201.ts
-#EXTINF:-1 group-title="FR | Enfants" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/boomerang-fr.png?raw=true" tvg-id="Boomerang.fr (src05)",Boomerang HD FR
-https://tv.media4u.top:443/live/media4u/media4u/71166.ts
+#EXTM3U
+#EXTINF:-1 group-title="Deportes Argentina",TNT Sports Premium
+https://93.domhsd.com/tntar/tracks-v1a1/mono.m3u8?ip=181.9.116.183&token=fce0b1ee6dd216de22bc1f2e57ed27440b6b842a-b7-1793179312-1793125312
+
+#EXTINF:-1 group-title="Deportes Argentina",TyC Sports HD
+https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8
+
+#EXTINF:-1 group-title="Deportes",ESPN (Latinoamérica)
+http://201.230.121.186:8000/play/a0fi/index.m3u8
+
+#EXTINF:-1 group-title="Deportes",ESPN Premium
+http://201.230.121.186:8000/play/a0n6/index.m3u8
+
+#EXTINF:-1 group-title="Deportes",ESPN 2
+http://201.230.121.186:8000/play/a0kd/index.m3u8
+
+#EXTINF:-1 group-title="Deportes",ESPN 3
+http://201.230.121.186:8000/play/a0jg/index.m3u8
+
+#EXTINF:-1 group-title="Deportes",ESPN 4
+http://201.230.121.186:8000/play/a0mv/index.m3u8
+
+#EXTINF:-1 group-title="Deportes",ESPN 5
+http://201.230.121.186:8000/play/a0ij/index.m3u8
+
+#EXTINF:-1 group-title="Deportes",ESPN 6
+http://201.230.121.186:8000/play/a0mx/index.m3u8
+
+#EXTINF:-1 group-title="Deportes",ESPN 7
+http://201.230.121.186:8000/play/a0dz/index.m3u8
+
+#EXTINF:-1 group-title="Deportes",ESPN Deportes (US)
+http://jabawalkies.club:8080/live/K1uWWBmaxJ/Xa1TFucw91/110817.ts
