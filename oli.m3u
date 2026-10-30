@@ -19,3 +19,6 @@ https://zapster.trapemn.tv:1936/CD-LATAM/FoxSports2/playlist.m3u8
 http://158.172.155.130:8000/play/a0ao/index.m3u8
 #EXTINF:-1,Stream 1
 https://razen.futlivehd.com/espnpremium/tracks-v1a1/mono.m3u8?ip=181.9.117.169&token=dbe8feb905491253970f5558db220fd8a33437b8-98-1793444058-1793390058
+#EXTINF:-1,Stream 2
+https://fala.futlivehd.com/disney14/tracks-v1a1/mono.m3u8?ip=181.9.117.169&token=f540129ee0adf8efaeba43942be0557d760949f3-ec-1793444416-1793390416
+
